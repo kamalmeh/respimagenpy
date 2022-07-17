@@ -22,6 +22,7 @@ class ResponsiveImageGenerator():
     src:str = "src"
     dest:str = "dest"
     opt_format:str = "webp"
+    extensions = ('.jpg', '.png', '.JPG', '.PNG')
     thumbnail_size:tuple = (300,300)
     logger = None
 
@@ -63,7 +64,7 @@ class ResponsiveImageGenerator():
             raise FileNotFoundError(f"{self.src}: Directory does not exist")
         return False
 
-    def scandir(self, directory:str, ext:list):
+    def scandir(self, directory:str, counter:int):
         """Finds all files in a given directory recursively
 
         Args:
@@ -79,14 +80,16 @@ class ResponsiveImageGenerator():
             if _f.is_dir():
                 subfolders.append(_f.path)
             if _f.is_file():
-                if os.path.splitext(_f.name)[1].lower() in ext:
-                    files.append(_f.path)
-
+                if os.path.splitext(_f.name)[1].lower() in self.extensions:
+                    # files.append(_f.path)
+                    self.generate_in_parallel(_f.path, counter)
+                    counter += 1
 
         for _d in list(subfolders):
-            _sf, _f = self.scandir(_d, ext)
+            _sf, _f = self.scandir(_d, counter)
             subfolders.extend(_sf)
             files.extend(_f)
+
         return subfolders, files
 
     def get_images(self):
@@ -96,8 +99,8 @@ class ResponsiveImageGenerator():
             list: list of image file names
         """
         return [
-            file for file in os.listdir(self.src) if file.endswith(('.jpg', '.png', '.JPG', '.PNG'))
-            ]
+            file for file in os.listdir(self.src) if file.endswith(self.extensions)
+        ]
 
     def find_height(self, size, _dw=None, _dh=None):
         """Finds the correct height to be used for resize
@@ -132,36 +135,34 @@ class ResponsiveImageGenerator():
         Finds all convertible image files in source directory and prepare to
         process them
         """
-        return self.scandir(self.src, ['.jpg', '.png', '.JPG', '.PNG'])
+        return self.scandir(self.src, 1)
 
-    def generate_in_parallel(self, images):
+    def generate_in_parallel(self, image, counter):
         """
         Generate the file in desired size given as argument
         """
-        if images is None:
-            raise Exception("List of images can not be empty")
+        if image is None:
+            raise Exception("Image can not be empty")
         try:
-            for image in images:
-                counter = 1
-                self.logger.info("Processing %s", image)
-                self.generate_thumbnail(image,counter)
-                name_without_ext, _ = image.split(".")
-                for params in self.params_list:
-                    self.logger.info("Generating responsive image @%sw", params['width'])
-                    if params['rename'] is False:
-                        qualified_name = name_without_ext
-                    else:
-                        parent_dir = Path(name_without_ext).resolve().parent
-                        qualified_name = os.path.join(parent_dir, f"{counter:05d}")
-                    qualified_name += f"@{params['name']}{params['suffix']}"
-                    qualified_name += f".{self.opt_format}"
-                    img = Image.open(image)
-                    size = self.find_height(img.size, params['width'])
-                    img = img.resize(size, PIL.Image.ANTIALIAS)
-                    img = self.transpose_if_required(img)
-                    img.save(qualified_name, format=self.opt_format,
-                                optimize=True, quality=params['quality'])
-                counter += 1
+            self.logger.info("Processing %s", image)
+            self.generate_thumbnail(image,counter)
+            name_without_ext, _ = image.split(".")
+            for params in self.params_list:
+                self.logger.info("Generating responsive image @%sw", params['width'])
+                if params['rename'] is False:
+                    qualified_name = name_without_ext
+                else:
+                    parent_dir = Path(name_without_ext).resolve().parent
+                    qualified_name = os.path.join(parent_dir, f"{counter:05d}")
+                qualified_name += f"@{params['name']}{params['suffix']}"
+                qualified_name += f".{self.opt_format}"
+                img = Image.open(image)
+                size = self.find_height(img.size, params['width'])
+                img = img.resize(size, PIL.Image.ANTIALIAS)
+                img = self.transpose_if_required(img)
+                img.save(qualified_name, format=self.opt_format,
+                            optimize=True, quality=params['quality'])
+            counter += 1
         #pylint: disable=broad-except
         except Exception as error:
             self.logger.error(error)
@@ -233,7 +234,7 @@ class ResponsiveImageGenerator():
         try:
             self.checkdirs()
             _, images = self.check_source_files()
-            self.generate_in_parallel(images=images)
+            # self.generate_in_parallel(images=images)
         #pylint: disable=broad-except
         except Exception as error:
             self.logger.error(error)

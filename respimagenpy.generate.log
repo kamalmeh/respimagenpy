@@ -1,0 +1,1234 @@
+07-17-2022 08:58:28 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 08:58:28 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 08:58:38 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 08:59:13 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 08:59:30 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 08:59:31 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 08:59:35 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 08:59:44 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 08:59:53 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 08:59:58 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 08:59:59 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 08:59:59 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 08:59:59 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:00:07 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\02.jpg
+07-17-2022 09:00:08 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:00:11 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:00:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:00:11 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:00:12 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:00:12 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:00:12 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:00:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:02:27 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:02:27 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:02:27 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:02:27 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:02:27 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:02:28 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:02:28 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:02:28 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:02:29 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\02.jpg
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:02:35 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:02:36 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:02:36 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:04:23 - respimagenpy.generate - ERROR - ResponsiveImageGenerator.scandir() missing 1 required positional argument: 'counter'
+07-17-2022 09:04:23 - respimagenpy.generate - INFO - Images Generated
+07-17-2022 09:04:48 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:04:48 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:04:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:04:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:04:49 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:04:49 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:04:49 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:04:50 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:04:50 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:05:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:05:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:05:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:05:47 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:05:47 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:05:47 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:05:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:05:48 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:05:48 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:05:59 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\02.jpg
+07-17-2022 09:05:59 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:05:59 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:05:59 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:05:59 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:06:00 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:06:00 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:06:00 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:06:01 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:08:56 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:08:56 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:08:57 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:08:57 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:08:57 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:08:57 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:08:58 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:08:58 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:08:58 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:09:25 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:09:26 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:09:26 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:09:26 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\02.jpg
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:10:08 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:10:09 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:10:09 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:10:09 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:16:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\01.jpg
+07-17-2022 09:16:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:16:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:16:50 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:16:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:16:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:16:50 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:16:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:16:51 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\02.jpg
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:20 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:21 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:21 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:30 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\03.jpg
+07-17-2022 09:17:30 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:30 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:30 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:31 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:31 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:31 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:32 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:32 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\04.jpg
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:41 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:42 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:42 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:42 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\05.jpg
+07-17-2022 09:17:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:46 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:46 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:47 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:47 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:48 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:50 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\06.jpg
+07-17-2022 09:17:50 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:50 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:50 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:51 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:51 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:52 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\07.jpg
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:17:55 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:17:56 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:17:56 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:18:11 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00001\08.jpg
+07-17-2022 09:18:11 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:18:11 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:18:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:18:11 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:18:12 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:18:12 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:18:12 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:18:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:18:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0001.JPG
+07-17-2022 09:18:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:18:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:18:47 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:18:47 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:18:47 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:18:48 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:18:48 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:18:49 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:19:24 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0002.JPG
+07-17-2022 09:19:24 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:19:24 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:19:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:19:25 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:19:25 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:19:26 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:19:26 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:19:27 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:19:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0004.JPG
+07-17-2022 09:19:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:19:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:19:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:19:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:19:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:19:50 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:19:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:19:51 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:19:53 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0008.JPG
+07-17-2022 09:19:53 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:19:53 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:19:54 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:19:54 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:19:54 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:19:55 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:19:55 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:19:56 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:19:59 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0014.JPG
+07-17-2022 09:19:59 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:19:59 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:19:59 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:19:59 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:20:00 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:20:00 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:20:01 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:20:01 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:20:16 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0015.JPG
+07-17-2022 09:20:16 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:20:17 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:20:17 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:20:17 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:20:17 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:20:18 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:20:18 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:20:19 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:20:20 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0023.JPG
+07-17-2022 09:20:20 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:20:20 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:20:21 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:20:21 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:20:21 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:20:22 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:20:22 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:20:23 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:24 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0025.JPG
+07-17-2022 09:50:24 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:25 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:26 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:26 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:27 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:27 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:29 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0027.JPG
+07-17-2022 09:50:29 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:29 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:30 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:30 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:30 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:31 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:31 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:32 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:42 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0028.JPG
+07-17-2022 09:50:42 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:42 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:42 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:42 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:43 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:43 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:44 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:44 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:45 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0029.JPG
+07-17-2022 09:50:45 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:45 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:46 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:46 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:46 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:47 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:48 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00002\DSC_0030.JPG
+07-17-2022 09:50:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:49 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:50 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:51 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:50:52 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0940_023_processed.JPG
+07-17-2022 09:50:52 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:50:52 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:50:53 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:50:53 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:50:54 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:50:55 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:50:55 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:50:56 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:13 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0942_024_processed.JPG
+07-17-2022 09:51:13 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:13 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:14 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:14 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:15 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:16 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:16 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:17 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:19 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0943_025_processed.JPG
+07-17-2022 09:51:19 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:19 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:20 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:20 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:21 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:21 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:22 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:23 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:24 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0947_026_processed.JPG
+07-17-2022 09:51:24 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:26 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:26 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:27 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:28 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:29 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:30 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0950_027_processed.JPG
+07-17-2022 09:51:30 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:31 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:31 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:32 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:32 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:33 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:34 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:35 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:36 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0957_028_processed.JPG
+07-17-2022 09:51:36 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:37 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:37 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:38 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:38 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:39 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:40 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:41 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:42 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0961_029_processed.JPG
+07-17-2022 09:51:42 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:42 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:43 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:43 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:44 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:45 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:46 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:47 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:48 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0967_030_processed.JPG
+07-17-2022 09:51:48 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:48 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:49 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:51 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:52 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:53 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:51:54 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0969_031_processed.JPG
+07-17-2022 09:51:54 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:51:55 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:51:55 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:51:56 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:51:56 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:51:57 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:51:58 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:51:59 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:00 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0970_032_processed.JPG
+07-17-2022 09:52:00 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:01 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:01 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:02 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:02 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:03 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:04 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:05 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:07 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0971_033_processed.JPG
+07-17-2022 09:52:07 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:07 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:08 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:08 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:09 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:10 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:11 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:12 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:13 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0973_034_processed.JPG
+07-17-2022 09:52:13 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:14 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:14 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:15 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:15 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:16 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:17 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:18 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:19 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0978_035_processed.JPG
+07-17-2022 09:52:19 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:19 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:20 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:20 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:21 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:22 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:22 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:23 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:25 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0984_036_processed.JPG
+07-17-2022 09:52:25 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:26 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:27 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:27 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:28 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:29 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:31 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0985_037_processed.JPG
+07-17-2022 09:52:31 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:31 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:31 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:32 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:33 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:33 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:34 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:35 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:37 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0987_038_processed.JPG
+07-17-2022 09:52:37 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:37 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:37 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:38 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:39 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:39 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:40 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:41 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:43 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1001_039_processed.JPG
+07-17-2022 09:52:43 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:43 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:43 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:44 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:45 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:45 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:46 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:47 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1002_040_processed.JPG
+07-17-2022 09:52:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:50 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:51 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:52 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:53 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:52:54 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:52:55 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1018_041_processed.JPG
+07-17-2022 09:52:55 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:52:55 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:52:56 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:52:57 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:52:57 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:52:58 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:52:59 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:00 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:01 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1021_042_processed.JPG
+07-17-2022 09:53:01 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:02 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:02 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:03 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:03 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:04 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:05 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:06 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:07 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0001.JPG
+07-17-2022 09:53:07 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:07 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:08 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:08 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:09 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:09 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:09 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:10 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:11 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0002.JPG
+07-17-2022 09:53:11 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:11 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:11 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:12 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:12 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:13 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:14 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0003.JPG
+07-17-2022 09:53:14 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:15 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:15 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:15 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:16 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:16 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:17 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:17 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:18 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0004.JPG
+07-17-2022 09:53:18 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:18 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:18 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:19 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:19 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:20 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:20 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:21 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:21 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0007.JPG
+07-17-2022 09:53:21 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:21 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:22 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:22 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:22 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:23 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:23 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:24 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:24 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0008.JPG
+07-17-2022 09:53:24 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:25 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:26 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:26 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:26 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:27 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:28 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0009.JPG
+07-17-2022 09:53:28 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:28 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:28 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:29 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:29 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:29 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:30 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:30 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:31 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0010.JPG
+07-17-2022 09:53:31 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:31 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:32 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:32 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:32 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:33 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:33 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:34 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:35 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0011.JPG
+07-17-2022 09:53:35 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:35 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:35 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:35 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:36 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:36 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:37 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:37 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:38 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0012.JPG
+07-17-2022 09:53:38 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:38 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:39 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:39 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:39 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:40 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:40 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:41 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:42 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0013.JPG
+07-17-2022 09:53:42 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:42 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:42 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:42 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:43 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:43 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:44 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:44 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:45 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0014.JPG
+07-17-2022 09:53:45 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:45 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:45 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:46 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:46 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:47 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:47 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:48 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0015.JPG
+07-17-2022 09:53:48 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:48 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:49 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:49 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:50 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:50 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:51 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:51 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0016.JPG
+07-17-2022 09:53:51 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:52 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:52 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:52 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:53 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:53 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:53 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:54 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:55 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0017.JPG
+07-17-2022 09:53:55 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:55 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:55 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:56 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:56 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:53:56 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:53:57 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:53:57 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:53:58 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0019.JPG
+07-17-2022 09:53:58 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:53:58 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:53:59 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:53:59 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:53:59 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:00 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:00 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:01 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:01 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0028.JPG
+07-17-2022 09:54:01 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:02 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:02 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:02 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:03 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:03 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:03 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:04 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:05 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0029.JPG
+07-17-2022 09:54:05 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:05 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:05 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:05 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:06 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:06 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:07 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:07 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:08 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0031.JPG
+07-17-2022 09:54:08 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:08 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:08 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:09 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:09 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:09 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:10 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:10 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:11 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0002.JPG
+07-17-2022 09:54:11 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:11 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:12 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:12 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:13 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:13 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:14 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:14 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0003.JPG
+07-17-2022 09:54:14 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:14 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:15 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:15 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:15 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:16 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:16 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:17 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:17 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0004.JPG
+07-17-2022 09:54:17 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:18 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:18 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:18 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:19 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:19 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:19 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:20 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:21 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0006.JPG
+07-17-2022 09:54:21 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:21 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:21 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:21 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:22 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:22 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:23 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:23 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:24 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0007.JPG
+07-17-2022 09:54:24 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:24 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:24 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:24 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:25 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:25 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:26 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:26 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:27 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0008.JPG
+07-17-2022 09:54:27 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:27 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:27 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:28 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:28 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:28 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:29 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:29 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:30 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0009.JPG
+07-17-2022 09:54:30 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:30 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:30 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:31 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:31 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:31 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:32 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:32 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:33 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0010.JPG
+07-17-2022 09:54:33 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:33 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:34 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:34 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:34 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:35 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:35 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:36 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:36 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0012.JPG
+07-17-2022 09:54:36 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:37 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:37 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:37 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:38 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:38 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:39 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:39 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:40 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0013.JPG
+07-17-2022 09:54:40 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:40 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:40 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:41 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:41 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:41 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:42 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:42 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:43 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0014.JPG
+07-17-2022 09:54:43 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:43 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:43 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:44 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:44 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:44 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:45 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:45 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0015.JPG
+07-17-2022 09:54:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:46 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:47 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:47 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:48 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:48 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0016.JPG
+07-17-2022 09:54:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:49 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:49 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:51 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:51 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:52 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0017.JPG
+07-17-2022 09:54:52 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:54:52 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:54:53 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:54:53 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:54:53 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:54:54 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:54:54 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:54:54 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:54:55 - respimagenpy.generate - INFO - Images Generated
+07-17-2022 09:56:29 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0940_023_processed.JPG
+07-17-2022 09:56:29 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:30 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:30 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:31 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:31 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:56:32 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:56:33 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:56:33 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:56:35 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0942_024_processed.JPG
+07-17-2022 09:56:35 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:35 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:35 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:36 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:36 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:56:37 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:56:38 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:56:39 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:56:40 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0943_025_processed.JPG
+07-17-2022 09:56:40 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:41 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:41 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:41 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:42 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:56:43 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:56:43 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:56:44 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:56:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0947_026_processed.JPG
+07-17-2022 09:56:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:46 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:47 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:48 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:56:48 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:56:49 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:56:50 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:56:51 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0950_027_processed.JPG
+07-17-2022 09:56:51 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:52 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:52 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:53 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:53 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:56:54 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:56:55 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:56:56 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:56:57 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0957_028_processed.JPG
+07-17-2022 09:56:57 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:56:57 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:56:58 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:56:58 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:56:59 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:00 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:01 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:02 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:03 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0961_029_processed.JPG
+07-17-2022 09:57:03 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:03 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:04 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:04 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:05 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:05 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:06 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:07 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:08 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0967_030_processed.JPG
+07-17-2022 09:57:08 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:09 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:09 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:10 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:10 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:11 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:12 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:14 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0969_031_processed.JPG
+07-17-2022 09:57:14 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:15 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:15 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:16 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:16 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:17 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:18 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:19 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:21 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0970_032_processed.JPG
+07-17-2022 09:57:21 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:21 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:21 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:22 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:23 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:23 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:24 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:25 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:27 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0971_033_processed.JPG
+07-17-2022 09:57:27 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:27 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:28 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:28 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:29 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:30 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:31 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:32 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:33 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0973_034_processed.JPG
+07-17-2022 09:57:33 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:33 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:34 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:34 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:35 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:36 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:37 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:38 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:39 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0978_035_processed.JPG
+07-17-2022 09:57:39 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:39 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:40 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:40 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:41 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:41 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:42 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:43 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:44 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0984_036_processed.JPG
+07-17-2022 09:57:44 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:45 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:45 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:46 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:46 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:47 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:48 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:49 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:50 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0985_037_processed.JPG
+07-17-2022 09:57:50 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:50 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:51 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:51 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:52 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:53 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:54 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:57:54 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:57:56 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC0987_038_processed.JPG
+07-17-2022 09:57:56 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:57:56 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:57:57 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:57:57 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:57:58 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:57:58 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:57:59 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:58:00 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:58:02 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1001_039_processed.JPG
+07-17-2022 09:58:02 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:58:02 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:58:02 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:58:03 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:58:04 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:58:04 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:58:05 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:58:06 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:58:08 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1002_040_processed.JPG
+07-17-2022 09:58:08 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:58:08 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:58:09 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:58:09 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:58:10 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:58:11 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:58:11 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:58:12 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:58:14 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1018_041_processed.JPG
+07-17-2022 09:58:14 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:58:14 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:58:15 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:58:15 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:58:16 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:58:17 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:58:17 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:58:18 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:58:20 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00003\_DSC1021_042_processed.JPG
+07-17-2022 09:58:20 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:58:20 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:58:21 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:58:21 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:58:22 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:58:23 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:58:23 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:58:24 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:58:26 - respimagenpy.generate - INFO - Images Generated
+07-17-2022 09:59:00 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0001.JPG
+07-17-2022 09:59:00 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:01 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:01 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:01 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:02 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:02 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:02 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:03 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:04 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0002.JPG
+07-17-2022 09:59:04 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:04 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:04 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:04 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:05 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:05 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:06 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:06 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:07 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0003.JPG
+07-17-2022 09:59:07 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:07 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:07 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:08 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:08 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:09 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:09 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:10 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:10 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0004.JPG
+07-17-2022 09:59:10 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:10 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:11 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:11 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:12 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:12 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:13 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0007.JPG
+07-17-2022 09:59:13 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:14 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:14 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:14 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:14 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:15 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:15 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:16 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:17 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0008.JPG
+07-17-2022 09:59:17 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:17 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:17 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:17 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:18 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:18 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:19 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:19 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:20 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0009.JPG
+07-17-2022 09:59:20 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:20 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:20 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:21 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:21 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:21 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:22 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:22 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:23 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0010.JPG
+07-17-2022 09:59:23 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:23 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:24 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:24 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:24 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:25 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:25 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:26 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:26 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0011.JPG
+07-17-2022 09:59:26 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:27 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:27 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:27 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:28 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:28 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:28 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:29 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:30 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0012.JPG
+07-17-2022 09:59:30 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:30 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:30 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:31 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:31 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:31 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:32 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:32 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:33 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0013.JPG
+07-17-2022 09:59:33 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:33 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:34 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:34 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:34 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:35 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:35 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:36 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:36 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0014.JPG
+07-17-2022 09:59:36 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:36 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:37 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:37 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:37 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:38 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:38 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:39 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:40 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0015.JPG
+07-17-2022 09:59:40 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:40 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:40 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:40 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:41 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:41 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:42 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:42 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:43 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0016.JPG
+07-17-2022 09:59:43 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:43 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:43 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:44 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:44 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:44 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:45 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:45 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:46 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0017.JPG
+07-17-2022 09:59:46 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:46 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:46 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:47 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:47 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:48 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:48 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:49 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:49 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0019.JPG
+07-17-2022 09:59:49 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:50 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:50 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:50 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:50 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:51 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:51 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:52 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:53 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0028.JPG
+07-17-2022 09:59:53 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:53 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:53 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:53 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:54 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:54 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:55 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:55 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:56 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0029.JPG
+07-17-2022 09:59:56 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:56 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:56 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 09:59:56 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 09:59:57 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 09:59:57 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 09:59:58 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 09:59:58 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 09:59:59 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00004\DSC_0031.JPG
+07-17-2022 09:59:59 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 09:59:59 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 09:59:59 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:00:00 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:00:00 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:00:00 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:00:01 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:00:01 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:00:02 - respimagenpy.generate - INFO - Images Generated
+07-17-2022 10:19:54 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0002.JPG
+07-17-2022 10:19:54 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:19:54 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:19:55 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:19:55 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:19:55 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:19:56 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:19:56 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:19:57 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:19:57 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0003.JPG
+07-17-2022 10:19:57 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:19:58 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:19:58 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:19:58 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:19:59 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:19:59 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:19:59 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:00 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:01 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0004.JPG
+07-17-2022 10:20:01 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:01 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:01 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:01 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:02 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:02 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:03 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:03 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:04 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0006.JPG
+07-17-2022 10:20:04 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:04 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:04 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:04 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:05 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:05 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:06 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:06 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:07 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0007.JPG
+07-17-2022 10:20:07 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:07 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:08 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:08 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:08 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:09 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:09 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:10 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:10 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0008.JPG
+07-17-2022 10:20:10 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:11 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:11 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:11 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:12 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:12 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:13 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:13 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:14 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0009.JPG
+07-17-2022 10:20:14 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:14 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:14 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:15 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:15 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:15 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:16 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:16 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:17 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0010.JPG
+07-17-2022 10:20:17 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:17 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:18 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:18 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:18 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:19 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:19 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:20 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:21 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0012.JPG
+07-17-2022 10:20:21 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:21 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:21 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:22 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:22 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:23 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:23 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:24 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:25 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0013.JPG
+07-17-2022 10:20:25 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:25 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:25 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:26 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:26 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:27 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:27 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:28 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:28 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0014.JPG
+07-17-2022 10:20:28 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:29 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:29 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:29 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:30 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:30 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:31 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:31 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:32 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0015.JPG
+07-17-2022 10:20:32 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:32 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:32 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:33 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:33 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:34 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:34 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:35 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:36 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0016.JPG
+07-17-2022 10:20:36 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:36 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:36 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:36 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:37 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:37 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:38 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:38 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:39 - respimagenpy.generate - INFO - Processing E:\home\kamal\developments\smiansh\projects\Darshna\darshnas_makeover\website\static\img\portfolio\00005\DSC_0017.JPG
+07-17-2022 10:20:39 - respimagenpy.generate - INFO - Generating thumbnail
+07-17-2022 10:20:39 - respimagenpy.generate - INFO - Generating responsive image @320w
+07-17-2022 10:20:40 - respimagenpy.generate - INFO - Generating responsive image @481w
+07-17-2022 10:20:40 - respimagenpy.generate - INFO - Generating responsive image @769w
+07-17-2022 10:20:40 - respimagenpy.generate - INFO - Generating responsive image @1025w
+07-17-2022 10:20:41 - respimagenpy.generate - INFO - Generating responsive image @1201w
+07-17-2022 10:20:41 - respimagenpy.generate - INFO - Generating responsive image @1440w
+07-17-2022 10:20:42 - respimagenpy.generate - INFO - Generating responsive image @1920w
+07-17-2022 10:20:42 - respimagenpy.generate - INFO - Images Generated

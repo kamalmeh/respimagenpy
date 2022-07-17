@@ -23,7 +23,7 @@ sizes = [
 ]
 
 #pylint: disable=line-too-long
-SOURCE = "E:\\home\\kamal\\developments\\smiansh\\projects\\Darshna\\darshnas_makeover\\website\\static\\img\\portfolio"
+SOURCE = "E:\\home\\kamal\\developments\\smiansh\\projects\\Darshna\\darshnas_makeover\\website\\static\\img\\portfolio\\00005"
 
 generator = ResponsiveImageGenerator(SOURCE, params=sizes)
 generator.execute()
