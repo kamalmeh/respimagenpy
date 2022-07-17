@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: respimagenpy
+Version: 0.1.0
+Summary: Generate set of responsive images for supplied images
+Home-page: https://www.smiansh.com
+Author: Kamal Mehta
+Author-email: kamal.h.mehta@smiansh.com
+License: MIT
